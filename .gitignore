@@ -2,4 +2,4 @@
 .vscode/
 
 # binary files
-.bin/
+bin/
