@@ -1,1 +1,1 @@
-"# snake-game" 
+"A traditional snake game, lol" 
